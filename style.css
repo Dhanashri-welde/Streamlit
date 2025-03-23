@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+    text-align: center;
+
+}
+
+#g{
+    height: 33px;
+    width: 83px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+#g:hover{
+    background-color: cadetblue;
+}
+
+#abc{
+    height: 33px;
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+#abc:hover{
+    background-color: cornflowerblue;
+}
